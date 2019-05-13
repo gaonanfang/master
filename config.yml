@@ -1,19 +1,3 @@
 spring:
-    profiles:
-      active: prod
-busi:
-  ops: Y
----
-server:
-  port: 7300
-spring:
   profiles: dev
-  application:
-      name: ms-provider-order
----
-spring:
-  profiles: prod
-  application:
-      name: ms-provider-order
-server:
-  port: 7300
+key: 1234
