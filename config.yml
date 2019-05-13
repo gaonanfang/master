@@ -4,7 +4,7 @@ spring:
 ---
 spring:
   profiles: dev
-key: 1234
+key: 3421
 ---
 spring:
   profiles: dev1
