@@ -4,4 +4,4 @@ key: 1234
 ---
 spring:
   profiles: dev1
-key: 1234
+key: 1235
